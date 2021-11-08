@@ -1,0 +1,3 @@
+// export default function Journal(1, 2, 3) {
+//   ...
+// }
